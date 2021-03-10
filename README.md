@@ -1,4 +1,4 @@
-# My-blog
+# My-personal-page
 A brief presentation of my skills.
 
 ## Tehnologies used to create the page
