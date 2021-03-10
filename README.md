@@ -7,3 +7,5 @@ A brief presentation of my skills.
 - Bootstrap 4
 
 ![Blog-image](images/first-part.PNG)
+![Blog-image](images/second-part.PNG)
+
