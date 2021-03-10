@@ -6,3 +6,4 @@ A brief presentation of my skills.
 - CSS
 - Bootstrap 4
 
+![Blog-image](images/first-part.PNG)

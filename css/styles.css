@@ -6,14 +6,14 @@ body {
 }
 
 h1 {
-  color: #69dddd;
+  color: #09060c;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
-  font-family: "Sacramento", cursive;
+  font-family: Palatino, "Times New Roman", "Times";
 }
 
 p{
-  font-family: "Sacramento", cursive;
+  font-family: Palatino, cursive;
   font-size: 2rem;
 
 }
@@ -71,6 +71,10 @@ a:hover {
   padding: 50px 0 20px;
 }
 
+.skills{
+  margin-top: 50px;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
@@ -88,6 +92,10 @@ a:hover {
 
 .contact-message {
   width: 40%;
+  margin: 40px auto 60px;
+}
+
+.contact-me{
   margin: 40px auto 60px;
 }
 
@@ -110,11 +118,6 @@ a:hover {
   margin-right: 30px;
 }
 
-.chilli-img {
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-}
 
 .btn {
   background: #3a5f5a;
@@ -144,7 +147,9 @@ a:hover {
 }
 
 img {
-
   border-radius: 30%;
+}
 
+span{
+  font-family: 'Courier New', Courier, monospace;
 }
